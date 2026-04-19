@@ -32,6 +32,7 @@ This project analyzes the performance of an imaginary hotel chain using Power BI
 * Power BI
 * Power Query
 * DAX
+* Ms Excel
 * CSV Files
 
 ## Dashboard Preview
